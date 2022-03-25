@@ -1,0 +1,11 @@
+.users {
+	width: calc(100vw - 150px);
+	padding: 20px 35px 25px 35px;
+	&__title {
+		text-align: left;
+		font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 14px;
+	}
+}
